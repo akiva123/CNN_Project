@@ -1,4 +1,4 @@
-# CNN_Project
+# CNN Project
 
 This project classifies whether pneumonia is present in lungs. While doctors are successful at reading lung x-rays for pneumonia, an algorithm can be just as usefull for determining the illness. This project uses convolutional neural networks to determine whether images of lungs have pneumonia in them.
 The Anova p-value of 0 confirmed that the images do come from different distributions, and therefore, that the images are distinguishable from eachother.  
